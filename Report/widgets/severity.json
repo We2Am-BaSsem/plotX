@@ -1,0 +1,101 @@
+[ {
+  "uid" : "617dc0c1e63ad3d5",
+  "name" : "test_valid_submit__does_not_raise_error",
+  "time" : {
+    "start" : 1640556424748,
+    "stop" : 1640556424788,
+    "duration" : 40
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4ea99536010f3942",
+  "name" : "test_submit__string_maxX__raise_error",
+  "time" : {
+    "start" : 1640556424654,
+    "stop" : 1640556424655,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4f9dcad5fced8b02",
+  "name" : "test_submit_empty_Function_and_maxX_raise_error",
+  "time" : {
+    "start" : 1640556424629,
+    "stop" : 1640556424630,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5e7e3adc087a651e",
+  "name" : "test_submit_empty_minX_and_maxX_raise_error",
+  "time" : {
+    "start" : 1640556424619,
+    "stop" : 1640556424621,
+    "duration" : 2
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f2e78f18f4248d9",
+  "name" : "test_submit__string_invalid_function__raise_error",
+  "time" : {
+    "start" : 1640556424740,
+    "stop" : 1640556424741,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e71b23aca37ba2ad",
+  "name" : "test_submit__string_minX__raise_error",
+  "time" : {
+    "start" : 1640556424646,
+    "stop" : 1640556424647,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ade719524e0c0af9",
+  "name" : "test_submit_empty_data_raise_error",
+  "time" : {
+    "start" : 1640556424610,
+    "stop" : 1640556424611,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f751038ca89420ea",
+  "name" : "test_submit__minX_greater_than_maxX__raise_error",
+  "time" : {
+    "start" : 1640556424662,
+    "stop" : 1640556424724,
+    "duration" : 62
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "48c96051ae057bf4",
+  "name" : "test_submit__minX_equal_maxX__raise_error",
+  "time" : {
+    "start" : 1640556424732,
+    "stop" : 1640556424732,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6c752aa55a486ef6",
+  "name" : "test_submit_empty_minX_and_Function_raise_error",
+  "time" : {
+    "start" : 1640556424637,
+    "stop" : 1640556424638,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]
