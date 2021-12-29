@@ -1,12 +1,12 @@
 {
-  "uid" : "5e7e3adc087a651e",
-  "name" : "test_submit_empty_minX_and_maxX_raise_error",
-  "fullName" : "test_app#test_submit_empty_minX_and_maxX_raise_error",
-  "historyId" : "5edbd96248a294597675c7db8e310a3f",
+  "uid" : "37302c3c7415ac98",
+  "name" : "test_submit_empty_minX_and_Function_raise_error",
+  "fullName" : "test_app#test_submit_empty_minX_and_Function_raise_error",
+  "historyId" : "df83e09d383f4e0d53166e0548334601",
   "time" : {
-    "start" : 1640556424619,
-    "stop" : 1640556424621,
-    "duration" : 2
+    "start" : 1640746522585,
+    "stop" : 1640746522585,
+    "duration" : 0
   },
   "status" : "passed",
   "flaky" : false,
@@ -14,8 +14,8 @@
   "beforeStages" : [ {
     "name" : "app",
     "time" : {
-      "start" : 1640556424613,
-      "stop" : 1640556424619,
+      "start" : 1640746522578,
+      "stop" : 1640746522584,
       "duration" : 6
     },
     "status" : "passed",
@@ -29,8 +29,8 @@
   }, {
     "name" : "pytestconfig",
     "time" : {
-      "start" : 1640556424572,
-      "stop" : 1640556424572,
+      "start" : 1640746522516,
+      "stop" : 1640746522516,
       "duration" : 0
     },
     "status" : "passed",
@@ -44,8 +44,8 @@
   }, {
     "name" : "qtbot",
     "time" : {
-      "start" : 1640556424613,
-      "stop" : 1640556424613,
+      "start" : 1640746522578,
+      "stop" : 1640746522578,
       "duration" : 0
     },
     "status" : "passed",
@@ -59,8 +59,8 @@
   }, {
     "name" : "qapp_args",
     "time" : {
-      "start" : 1640556424571,
-      "stop" : 1640556424571,
+      "start" : 1640746522516,
+      "stop" : 1640746522516,
       "duration" : 0
     },
     "status" : "passed",
@@ -74,9 +74,9 @@
   }, {
     "name" : "qapp",
     "time" : {
-      "start" : 1640556424572,
-      "stop" : 1640556424587,
-      "duration" : 15
+      "start" : 1640746522516,
+      "stop" : 1640746522534,
+      "duration" : 18
     },
     "status" : "passed",
     "steps" : [ ],
@@ -96,7 +96,7 @@
     "value" : "weaam-G3-3579"
   }, {
     "name" : "thread",
-    "value" : "17588-MainThread"
+    "value" : "20711-MainThread"
   }, {
     "name" : "framework",
     "value" : "pytest"
@@ -120,6 +120,6 @@
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "5e7e3adc087a651e.json",
+  "source" : "37302c3c7415ac98.json",
   "parameterValues" : [ ]
 }

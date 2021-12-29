@@ -1,22 +1,22 @@
 {
-  "uid" : "4ea99536010f3942",
-  "name" : "test_submit__string_maxX__raise_error",
-  "fullName" : "test_app#test_submit__string_maxX__raise_error",
-  "historyId" : "0ca62e76460fdb3e0f57f48a489479bc",
+  "uid" : "ec3c9921e1bd5b0",
+  "name" : "test_submit_empty_data_raise_error",
+  "fullName" : "test_app#test_submit_empty_data_raise_error",
+  "historyId" : "7a54bb5b5372e7e14d28b381f86f9e46",
   "time" : {
-    "start" : 1640556424654,
-    "stop" : 1640556424655,
+    "start" : 1640746522558,
+    "stop" : 1640746522559,
     "duration" : 1
   },
   "status" : "passed",
   "flaky" : false,
   "newFailed" : false,
   "beforeStages" : [ {
-    "name" : "pytestconfig",
+    "name" : "app",
     "time" : {
-      "start" : 1640556424572,
-      "stop" : 1640556424572,
-      "duration" : 0
+      "start" : 1640746522535,
+      "stop" : 1640746522558,
+      "duration" : 23
     },
     "status" : "passed",
     "steps" : [ ],
@@ -27,11 +27,11 @@
     "shouldDisplayMessage" : false,
     "hasContent" : false
   }, {
-    "name" : "app",
+    "name" : "pytestconfig",
     "time" : {
-      "start" : 1640556424649,
-      "stop" : 1640556424654,
-      "duration" : 5
+      "start" : 1640746522516,
+      "stop" : 1640746522516,
+      "duration" : 0
     },
     "status" : "passed",
     "steps" : [ ],
@@ -44,8 +44,8 @@
   }, {
     "name" : "qtbot",
     "time" : {
-      "start" : 1640556424648,
-      "stop" : 1640556424648,
+      "start" : 1640746522535,
+      "stop" : 1640746522535,
       "duration" : 0
     },
     "status" : "passed",
@@ -59,8 +59,8 @@
   }, {
     "name" : "qapp_args",
     "time" : {
-      "start" : 1640556424571,
-      "stop" : 1640556424571,
+      "start" : 1640746522516,
+      "stop" : 1640746522516,
       "duration" : 0
     },
     "status" : "passed",
@@ -74,9 +74,9 @@
   }, {
     "name" : "qapp",
     "time" : {
-      "start" : 1640556424572,
-      "stop" : 1640556424587,
-      "duration" : 15
+      "start" : 1640746522516,
+      "stop" : 1640746522534,
+      "duration" : 18
     },
     "status" : "passed",
     "steps" : [ ],
@@ -96,7 +96,7 @@
     "value" : "weaam-G3-3579"
   }, {
     "name" : "thread",
-    "value" : "17588-MainThread"
+    "value" : "20711-MainThread"
   }, {
     "name" : "framework",
     "value" : "pytest"
@@ -120,6 +120,6 @@
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "4ea99536010f3942.json",
+  "source" : "ec3c9921e1bd5b0.json",
   "parameterValues" : [ ]
 }
