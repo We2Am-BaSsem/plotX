@@ -73,7 +73,8 @@
   generate the report:
 </p>
 
-```bash ./RunTest.sh ``` # Screenshots
+```bash ./RunTest.sh ``` 
+# Screenshots
 <div>
   <p align="center">
     Application GUI
